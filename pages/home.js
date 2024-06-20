@@ -555,7 +555,7 @@ export default function Home() {
                 </Socials>
                 <FooterInner>
 
-                    <LogoImage2 src='/logo.png' alt='logo'></LogoImage2>
+                    <Image src='/logo.png'  width={300} height={300} alt='logo'></Image>
 
                     <Disclaimer >DISCLAIMER <br></br>
                         $WOJCUM AND HAS NO REAL VALUE.
