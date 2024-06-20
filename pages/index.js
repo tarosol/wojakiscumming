@@ -17,6 +17,7 @@ height:100%;
 position:absolute;
 left:-350px;
 z-index:0;
+display:none;
 }
 `
 const LogoImage2 = styled.img`
@@ -24,6 +25,18 @@ const LogoImage2 = styled.img`
 width:300px;
 height:auto;
 z-index:2;
+}
+`
+
+const LogoImage3 = styled.img`
+display:none;
+  @media (max-width: 769px) {
+display:flex;
+width:auto;
+height:100%;
+position:absolute;
+left:-320px;
+z-index:0;
 }
 `
 
@@ -40,6 +53,11 @@ display:flex;
 flex-direction:column;
 align-items:center;
 width:100%;
+  @media (max-width: 769px) {
+position:relative;
+height:100%;
+justify-content:center;
+}
 `
 
 const Button = styled.button`
@@ -86,6 +104,7 @@ export default function Landing() {
         <LogoImage1 src='/ass.PNG' alt = "logo"/>
         <Divider2>
           <LogoImage2 src='/logo.PNG' alt = "logo"/>  
+          <LogoImage3 src='/ass.PNG' alt = "logo"/>
           
           <Button onClick={() => router.push('/home')}>CUM INSIDE</Button>
 
