@@ -11,8 +11,20 @@ import Head from "next/head";
 
 const LogoImage1 = styled.img`
 width:50%;
+  @media (max-width: 769px) {
+width:auto;
+height:100%;
+position:absolute;
+left:-90%;
+z-index:0;
+}
 `
 const LogoImage2 = styled.img`
+  @media (max-width: 769px) {
+width:400px;
+height:auto;
+z-index:2;
+}
 `
 
 const Divider = styled.div`
@@ -50,6 +62,10 @@ box-shadow: 0.1em 0.1em;
 &:active {
   transform: translate(0.05em, 0.05em);
     box-shadow: 0.05em 0.05em;
+}
+
+  @media (max-width: 769px) {
+font-size:24px;
 }
 `
 const Context = createContext()
