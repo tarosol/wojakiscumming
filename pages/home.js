@@ -486,7 +486,7 @@ export default function Home() {
                 <TokenSub>
 
                     <TokenComp 
-                    token_image="/avatar1.png" 
+                    token_image="/avatar1.PNG" 
                     token_head="LIQUIDITY"
                     token_text="BURNED"
                     width='400'
@@ -503,7 +503,7 @@ export default function Home() {
                     ></TokenComp>
 
                     <TokenComp 
-                    token_image="/avatar2.png" 
+                    token_image="/avatar2.PNG" 
                     token_head="TOTAL SUPPLY"
                     token_text="1B"
                     width='400'
