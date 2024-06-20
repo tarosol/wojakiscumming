@@ -21,7 +21,7 @@ z-index:0;
 `
 const LogoImage2 = styled.img`
   @media (max-width: 769px) {
-width:400px;
+width:300px;
 height:auto;
 z-index:2;
 }
@@ -66,6 +66,7 @@ box-shadow: 0.1em 0.1em;
 
   @media (max-width: 769px) {
 font-size:24px;
+z-index:5;
 }
 `
 const Context = createContext()

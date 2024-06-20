@@ -256,7 +256,7 @@ transform:rotateY(180deg);
 @media (max-width: 769px) {
     width:auto;
     height:1000px;
-    transform:rotate(-15deg) rotateY(180deg);
+    transform:rotate(-20deg) rotateY(180deg);
     opacity:0.6;
     right:-85%;
     top:0%;
