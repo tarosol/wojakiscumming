@@ -15,7 +15,7 @@ width:50%;
 width:auto;
 height:100%;
 position:absolute;
-left:-90%;
+left:-350px;
 z-index:0;
 }
 `
