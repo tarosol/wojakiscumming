@@ -45,6 +45,6 @@ name=''
 }) {
     
     return (
-        <ImageCont src='/sperm.png' className={name} width={width} top={top} left={left} bottom={bottom} right={right}></ImageCont>
+        <ImageCont src='/sperm.PNG' className={name} width={width} top={top} left={left} bottom={bottom} right={right}></ImageCont>
         )
 }

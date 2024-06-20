@@ -468,12 +468,12 @@ export default function Home() {
                         </AboutInner>
                     </AboutTextCont>
 
-                    <Image src='/frost.gif' alt='frost' unoptimized='yes' width={650} height={650} className={styles.frost}></Image>
+                    <Image src='/frost.GIF' alt='frost' unoptimized='yes' width={650} height={650} className={styles.frost}></Image>
                 </AboutMedia>
             </AboutCont2>
 
             <TokenCont className={styles.tokencont}>
-                <AssImage src='/ass.png' alt='ass'></AssImage>
+                <AssImage src='/ass.PNG' alt='ass'></AssImage>
                 <Mug src='/mug.png' alt='ass'></Mug>
                  <TokenHead>
                     TOKENOMICS
@@ -494,7 +494,7 @@ export default function Home() {
                     ></TokenComp>
 
                     <TokenComp 
-                    token_image="/sperm.png" 
+                    token_image="/sperm.PNG" 
                     token_head="MINT & FREEZE"
                     token_text="REVOKED"
                     width='400'
@@ -555,7 +555,7 @@ export default function Home() {
                 </Socials>
                 <FooterInner>
 
-                    <Image src='/logo.png'  width={300} height={300} alt='logo'></Image>
+                    <LogoImage2 src='/logo.PNG' alt='logo'></LogoImage2>
 
                     <Disclaimer >DISCLAIMER <br></br>
                         $WOJCUM AND HAS NO REAL VALUE.

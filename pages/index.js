@@ -66,9 +66,9 @@ export default function Landing() {
         <link rel="icon" href="/profile.jpg" />
       </Head>
       <Divider>
-        <LogoImage1 src='/ass.png' alt = "logo"/>
+        <LogoImage1 src='/ass.PNG' alt = "logo"/>
         <Divider2>
-          <LogoImage2 src='/logo.png' alt = "logo"/>  
+          <LogoImage2 src='/logo.PNG' alt = "logo"/>  
           
           <Button onClick={() => router.push('/home')}>CUM INSIDE</Button>
 

@@ -110,7 +110,7 @@ export function Banner() {
 
             <AboutCont>
                 <NavBar/>
-                <GunImage src='/candle.png' unoptimized></GunImage>
+                <GunImage src='/candle.PNG' unoptimized></GunImage>
 
                 <AboutFooter>
                     <Pump>BUY ON PUMP.FUN</Pump>

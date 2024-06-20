@@ -78,7 +78,7 @@ export function NavBar() {
     const router = useRouter();
     return (
         <NavCont>
-            <a onClick={()=>router.push('/home')}><LogoImage src='/logo.png'/></a>
+            <a onClick={()=>router.push('/home')}><LogoImage src='/logo.PNG'/></a>
             
 {/* 
             <NavRight>
