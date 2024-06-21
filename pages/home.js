@@ -549,10 +549,10 @@ export default function Home() {
                 <FloatText>CUMMUNITY</FloatText>
                 <Socials>
                     <Link href='https://x.com/wojakiscumming'><FooterSocials src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe3}></FooterSocials></Link>
-                    <Link href='t.me/wojiscumming'><FooterSocials src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe4}></FooterSocials></Link>
+                    <Link href='https://t.me/wojiscumming'><FooterSocials src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe4}></FooterSocials></Link>
                     
                     <Link href='https://x.com/wojakiscumming'><FooterSocials src='/twit.svg' alt='twit' width={45} height={45} className={styles.socialsframe5}></FooterSocials></Link>
-                    <Link href='t.me/wojiscumming'><FooterSocials src='/tel.svg' alt='tel' width={45} height={45} className={styles.socialsframe6}></FooterSocials></Link>
+                    <Link href='https://t.me/wojiscumming'><FooterSocials src='/tel.svg' alt='tel' width={45} height={45} className={styles.socialsframe6}></FooterSocials></Link>
                 </Socials>
                 <FooterInner>
 
