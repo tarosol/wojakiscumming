@@ -36,13 +36,12 @@ padding: 25px 0px;
 
 
 const GunImage = styled.img`
-    width:600px;
     position:absolute;
-    top:175px;
-
+    bottom:50px;
+    width:600px;
     @media (max-width: 769px) {
     width:450px;
-    top:150px;
+    bottom:100px;
   }
 `
 
@@ -80,6 +79,8 @@ box-shadow: 0.2em 0.2em #2A2A2A;
 
       @media (max-width: 769px) {
     font-size:1.25rem;
+    padding:12px;
+    width:220px;
   }
 `
 

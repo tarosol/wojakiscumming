@@ -200,8 +200,9 @@ color:#2A2A2A;
 
 const AboutText1 = styled.p`
 font-family: Kinder, sans-serif;
-font-size:3rem;
-color:#2A2A2A;
+font-size:6rem;
+color:black;
+opacity:0.2;
 width:100%;
 font-weight:600;
     @media (max-width: 769px) {
@@ -276,7 +277,7 @@ opacity:0.6;
 // }
 `
 
-const Dex = styled.img`
+const Dex = styled.img`d
 width:auto;
 height:100px;
 border:2px solid black;

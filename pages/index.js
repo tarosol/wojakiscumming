@@ -10,9 +10,9 @@ import Head from "next/head";
 
 
 const LogoImage1 = styled.img`
-width:50%;
+width:60%;
+height:auto;
   @media (max-width: 769px) {
-width:auto;
 height:100%;
 position:absolute;
 left:-350px;
@@ -21,6 +21,7 @@ display:none;
 }
 `
 const LogoImage2 = styled.img`
+width:100%;
   @media (max-width: 769px) {
 width:300px;
 height:auto;
@@ -65,7 +66,7 @@ background-color:#FFD63D;
 
 padding:10px 15px;
 font-weight:600;
-font-size:30px;
+font-size:2rem;
 cursor:pointer;
 font-family: Kinder, sans-serif;
 border: 3px solid #1E152A;
@@ -83,7 +84,7 @@ box-shadow: 0.1em 0.1em;
 }
 
   @media (max-width: 769px) {
-font-size:24px;
+font-size:1rem;
 z-index:5;
 }
 `
