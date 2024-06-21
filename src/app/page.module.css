@@ -27,6 +27,11 @@ box-shadow: 1.5em 1.5em #2A2A2A;
 }
 
 @media (max-width: 769px) {
+
+  .main{
+    overflow-x:hidden;
+    overflow-y:hidden;
+  }
   .frost{
     /* width:200px;
     height:auto;

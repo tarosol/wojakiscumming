@@ -13,7 +13,7 @@ const LogoImage1 = styled.img`
 width:60%;
 height:auto;
   @media (max-width: 769px) {
-height:100%;
+width:500px;
 position:absolute;
 left:-350px;
 z-index:0;
@@ -21,7 +21,7 @@ display:none;
 }
 `
 const LogoImage2 = styled.img`
-width:100%;
+width:80%;
   @media (max-width: 769px) {
 width:300px;
 height:auto;
@@ -33,10 +33,9 @@ const LogoImage3 = styled.img`
 display:none;
   @media (max-width: 769px) {
 display:flex;
-width:auto;
-height:100%;
+width:600px;
 position:absolute;
-left:-320px;
+left:-400px;
 z-index:0;
 }
 `

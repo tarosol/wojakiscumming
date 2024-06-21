@@ -30,7 +30,7 @@ height:100vh;
 padding: 25px 0px;
 
     @media (max-width: 769px) {
-    padding:100px 0px;
+    padding:50px 0px;
   }
 `
 
