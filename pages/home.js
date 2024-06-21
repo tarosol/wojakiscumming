@@ -481,7 +481,7 @@ export default function Home() {
                 </TokenHead>
                 <TokenHeadCont>
 
-                <WhiteText>CA:</WhiteText>
+                <WhiteText>CA:BZzyLnKyC8WbaLx3CNoNwcfk6z6p61WoccvhZLWUpump</WhiteText>
                 </TokenHeadCont>
 
                 <TokenSub>
@@ -548,11 +548,11 @@ export default function Home() {
                 <FloatTextSmall>JOIN THE</FloatTextSmall>
                 <FloatText>CUMMUNITY</FloatText>
                 <Socials>
-                    <Link href='https://google.com'><FooterSocials src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe3}></FooterSocials></Link>
-                    <Link href='https://google.com'><FooterSocials src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe4}></FooterSocials></Link>
+                    <Link href='https://x.com/wojakiscumming'><FooterSocials src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe3}></FooterSocials></Link>
+                    <Link href='t.me/wojiscumming'><FooterSocials src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe4}></FooterSocials></Link>
                     
-                    <Link href='https://google.com'><FooterSocials src='/twit.svg' alt='twit' width={45} height={45} className={styles.socialsframe5}></FooterSocials></Link>
-                    <Link href='https://google.com'><FooterSocials src='/tel.svg' alt='tel' width={45} height={45} className={styles.socialsframe6}></FooterSocials></Link>
+                    <Link href='https://x.com/wojakiscumming'><FooterSocials src='/twit.svg' alt='twit' width={45} height={45} className={styles.socialsframe5}></FooterSocials></Link>
+                    <Link href='t.me/wojiscumming'><FooterSocials src='/tel.svg' alt='tel' width={45} height={45} className={styles.socialsframe6}></FooterSocials></Link>
                 </Socials>
                 <FooterInner>
 

@@ -114,7 +114,7 @@ export function Banner() {
                 <GunImage src='/candle.PNG' unoptimized></GunImage>
 
                 <AboutFooter>
-                    <Pump>BUY ON PUMP.FUN</Pump>
+                    <Link href="https://pump.fun"><Pump>BUY ON PUMP.FUN</Pump></Link>
                     <Socials>
                         <Link href='https://x.com/wojakiscumming'><Image src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe}></Image></Link>
                         <Link href='t.me/wojiscumming'><Image src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe2}></Image></Link>
