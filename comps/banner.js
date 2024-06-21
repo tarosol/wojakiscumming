@@ -116,8 +116,8 @@ export function Banner() {
                 <AboutFooter>
                     <Pump>BUY ON PUMP.FUN</Pump>
                     <Socials>
-                        <Link href='https://google.com'><Image src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe}></Image></Link>
-                        <Link href='https://google.com'><Image src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe2}></Image></Link>
+                        <Link href='https://x.com/wojakiscumming'><Image src='/twitterwhite.svg' alt='twit' width={55} height={55} className={styles.socialsframe}></Image></Link>
+                        <Link href='t.me/wojiscumming'><Image src='/telegramwhite.svg' alt='tel' width={55} height={55} className={styles.socialsframe2}></Image></Link>
                     </Socials>
                 </AboutFooter>
             </AboutCont>
